@@ -53,8 +53,5 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   # Link your social networking accouns to the side menu
   # by entering your username or ID.
   twitter = "*"
-  facebook = "*"
-  instagram = "*"
   github = "ericasare1"
-  stackoverflow = "*"
-  linkedin = "*"
+  linkedin = "ericasare1"
