@@ -5,6 +5,7 @@ theme = "blackburn"
 author = "Eric Asare, Ph.D"
 copyright = "&copy; 2020. All rights reserved."
 canonifyurls = true
+relativeurls = true
 paginate = 10
 #Ref warning: You are recommended to ignore certain files in the config.toml
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
