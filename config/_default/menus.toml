@@ -24,14 +24,26 @@
   weight = 40
 
 [[main]]
-  name = "Relevant Courses Taken"
-  url = "courses/"
+  name = "Teaching"
+  url = "teaching_courses/"
   weight = 50
+
+[[main]]
+  name = "Selected Courses Taken"
+  url = "courses/"
+  weight = 60
+  
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+[[main]]
+   name = "CV"
+   url = "files/cv.pdf"
+   weight = 70
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 70
 
 #[[main]]
 #  name = "dropdown"
@@ -48,9 +60,4 @@
 #  name = "dropdown 2"
 #  url = "#!"
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-[[main]]
-   name = "CV"
-   url = "files/cv.pdf"
-   weight = 70
+
