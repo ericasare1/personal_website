@@ -1,9 +1,0 @@
-
-install.packages("blogdown")
-library(blogdown)
-blogdown::update_hugo()
-blogdown::hugo_version()
-
-blogdown::new_site(theme = "yoshiharuyamashita/blackburn")
-
-blogdown::serve_site() # ensures that site reloads anything do changes
