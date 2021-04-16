@@ -1,6 +1,6 @@
 title: Academia
 baseURL: https://examplesite.org
-copyright: Copyright &copy; {year}
+copyright: Copyright &copy; {2021}
 googleAnalytics: ''
 disqusShortname: ''
 theme: academia-hugo
