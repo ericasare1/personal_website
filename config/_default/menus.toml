@@ -27,7 +27,7 @@
   name = "Teaching"
   url = "teaching_courses/"
   weight = 50
-m
+
 [[main]]
   name = "Selected Courses Taken"
   url = "courses/"

@@ -2,33 +2,32 @@
 authors:
 - admin
 avatar_image: user-full.png
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include causal inference, choice experiments.
 btn:
 - label: Download Resume
   url: https://sourcethemes.com/academic/docs/install/
-display_education: false
+display_education: True
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Applied and Agricultural Economics
+    institution: Texas Tech University
+    year: 2017
+  - course: MSc in Agricultural and Applied Economics
+    institution: Virginia Tech University
+    year: 2015
+  - course: MSc in Resource Economics and Policy
+    institution: University of Maine
+    year: 2013
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Michael Vahn
+- Data Visualization
+- Data Analytics
+- Causal Inference
+name: Eric Asare
 organizations:
-- name: Stanford University
+- name: University of Saskatchewan
   url: ""
-role: Professor of Artificial Intelligence
+role: Research Economist
 social:
 - icon: envelope
   icon_pack: fas
@@ -48,8 +47,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Eric Asare is a data scientist with over 25 years experience. He loves dogs and food. 
 
 ![reviews](../../img/certifacates.jpg)
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.
+I am me. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.
