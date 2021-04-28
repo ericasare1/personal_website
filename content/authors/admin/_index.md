@@ -2,7 +2,7 @@
 authors:
 - admin
 avatar_image: user-full.png
-bio: My research interests include causal inference, choice experiments.
+bio: My research interests include Causal Inference, Interpretable Machine Learning, Experimental Design, Data Visualization, Big Data Analytics
 btn:
 - label: Download Resume
   url: https://sourcethemes.com/academic/docs/install/
@@ -20,10 +20,13 @@ education:
     year: 2013
 email: ""
 interests:
-- Data Visualization
+- Data Visualization and Dashboards
 - Data Analytics
 - Causal Inference
-name: Eric Asare
+- Experimental Design
+- Big Data Analytics
+- Forex/Stock Trading
+name: Eric Asare, Ph.D.
 organizations:
 - name: University of Saskatchewan
   url: ""
@@ -32,23 +35,23 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.ca/citations?user=L_dHGWQAAAAJ&hl=en&authuser=1
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ericasare1
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/ericasare1
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Eric Asare is a data scientist with over 25 years experience. He loves dogs and food. 
+Eric Asare, Ph.D is a data scientist with over 15 years experience. He loves dogs, being around kids, and nature. 
 
 ![reviews](../../img/certifacates.jpg)
 
-I am me. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.
+I am intrigued by data for its enormous potential to provide powerful insights to solve pressing problems. For the past 15 years, I have been applying varied statistical/econometric methods and data visualizations on different forms of data to solve problems. I am passionate about investing in continuous education to prepare me to solve the complexities of data now and its evolution tomorrow. I would love to find the right opportunity to express my skills in a win-win situation.
