@@ -8,5 +8,5 @@ summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, eius.
 tags:
 - Demo
 - robotics
-title: Artificial Intelligence
+title: Artificial Intelligence by olen gaba
 ---
