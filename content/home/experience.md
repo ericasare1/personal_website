@@ -65,7 +65,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Toronto, Canada"
   date_start = "2020-05-01"
-  date_end = "2020-9-01"
+  date_end = "2020-09-01"
   description = """
 * Developed a BeeSafe WebApp, using StreamLit and a Poisson model, enabling agricultural producers in US counties to predict bumble bee diversity with features such as plant hosts, temperature, and precipitation, to inform sound bee conservation decisions at the farm level.
 * Deployed StreamLit WebApp on Amazon Web Service (AWS) EC2 instance.
@@ -88,7 +88,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Blacksburg, VA, U.S.A"
   date_start = "2013-08-01"
-  date_end = "2015-5-01"
+  date_end = "2015-05-01"
   description = """
 * Conducted an exploratory data analysis with R statistical software to prepare survey data on improved beans adoption in Uganda for analysis.
 * Estimated a logistic regression to understand the adoption of improved beans in Uganda and recommended actions that motivate farmers to adopt it.
@@ -100,7 +100,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Orono, ME, U.S.A"
   date_start = "2011-08-01"
-  date_end = "2013-5-01"
+  date_end = "2013-05-01"
   description = """
 * Applied a stochastic dominance model and Monte Carlos simulation in STATA and informed farmers, academics, and bee conservationists at producer workshops in Maine that increasing bee mortality in Maine could negatively impact the sustainability of intensive blueberry farms in Maine.
 """
