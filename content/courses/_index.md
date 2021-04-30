@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: Posts
+title: Ph.D Level Statistics/Econometric Courses
 view: 0
 ---

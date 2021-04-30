@@ -91,8 +91,8 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 2
 map_api_key = "AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-latitude = "37.4275"
-longitude = "-122.1697"
+latitude = "52.1579"
+longitude = "106.6702"
 zoom = 15
 
 ############################
@@ -144,7 +144,7 @@ sharing = true
   #   2: Compact
   #   3: Card
   #   4: Citation (publications only)
-  post_view = 3
+  #post_view = 3
   publication_view = 3
   talk_view = 2
 
