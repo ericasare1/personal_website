@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   course_url = "https://www.linkedin.com/learning/database-clinic-mongodb/welcome?u=2059300"
   date_start = "2021-03-30"
   date_end = ""
-  description = "Learning Objectives:  
+  description = """ Learning Outcomes:  
   * Strength and weakness of MongoDB
   * Creating a database
   * Joining datasets
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   * Creating records
   * Reshaping data for calculations
   * Performing calculations
-  "
+  """ 
   
 [[item]]
   organization = "Linkedin"
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   course_url = "https://www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training/welcome?u=2059300"
   date_start = "2021-03-31"
   date_end = ""
-  description = "Learning Outcomes:  
+  description = """ Learning Outcomes:  
   * Explain the definition of an NLP.
   * Describe the process of tokenizing.
   * Identify the purpose of vectorizing.
@@ -53,7 +53,7 @@ date_format = "Jan 2006"
   * Summarize the characteristics of TF-IDF.
   * Define accuracy in terms of evaluation metrics.
   * Recall three benefits of using ensemble methods.
-  "
+  """
 
 [[item]]
   organization = "Linkedin"
@@ -63,7 +63,7 @@ date_format = "Jan 2006"
   course_url = "https://www.linkedin.com/learning/me/completed?trk=nav_neptune_learning&u=2059300"
   date_start = "2021-03-29"
   date_end = ""
-  description = "Learning Outcomes:  
+  description = """ Learning Outcomes:  
   * Benefits of AWS
   * File storage with S3, Glacier, EBS, and EFS
   * Uploading files to AWS
@@ -76,7 +76,8 @@ date_format = "Jan 2006"
   * Analyzing big data with Athena queries
   * Preparing and loading data for analytics with AWS Glue
   * Setting up a secure data lake with AWS Lake Formation
-  "
+  """
+  
 [[item]]
   organization = "Linkedin"
   organization_url = "https://www.linkedin.com/learning"
@@ -85,7 +86,7 @@ date_format = "Jan 2006"
   course_url = "https://www.linkedin.com/learning/advanced-sql-for-data-scientists/welcome?u=2059300"
   date_start = "2020-08-04"
   date_end = ""
-  description = "Learning Outcomes:  
+  description = """ Learning Outcomes:  
   * Data manipulation
   * ANSI standards
   * SQL and variations
@@ -94,7 +95,7 @@ date_format = "Jan 2006"
   * Advanced filtering techniques
   * Advanced aggregation techniques
   * Windowing functions for working with ordered data sets
-"
+"""
 
 [[item]]
   organization = "Linkedin"
@@ -104,7 +105,7 @@ date_format = "Jan 2006"
   course_url = "https://www.linkedin.com/learning/the-data-science-of-experimental-design/conducting-an-experiment-online?u=2059300"
   date_start = "2020-12-24"
   date_end = ""
-  description = " A practical deep dive on how to conduct A/B experiment to enhance customer retention"
+  description = "A practical deep dive on how to conduct A/B experiment to enhance customer retention."
 
 [[item]]
   organization = "Linkedin"
@@ -114,14 +115,14 @@ date_format = "Jan 2006"
   course_url = "https://www.linkedin.com/learning/r-interactive-visualizations-with-htmlwidgets/welcome?u=2059300"
   date_start = "2020-08-03"
   date_end = ""
-  description = "Learning Outcomes:  
+  description = """ Learning Outcomes:  
   * Installing htmlwidgets
   * Selecting the best htmlwidget
   * Creating interactive maps with Leaflet
   * Creating interactive charts with Plotly and Highcharter
   * Creating interactive networks with visNetwork
   * Creating interactive tables with DT
-"
+"""
   
 [[item]]
   organization = "Linkedin"
@@ -131,7 +132,7 @@ date_format = "Jan 2006"
   course_url = "https://www.linkedin.com/learning/building-data-apps-with-r-and-shiny-essential-training/build-test-and-deploy-apps-easily-in-shiny?u=2059300"
   date_start = "2020-08-22"
   date_end = ""
-  description = "Learning Outcomes:  
+  description = """ Learning Outcomes:  
   * Building a Shiny data app
   * Single vs. split-file apps
   * Static tables vs. interactive tables
@@ -144,7 +145,8 @@ date_format = "Jan 2006"
   * Debugging Shiny apps
   * shinyjs::runcodeUI, reactlog
   * Deploying apps
-"
+"""
+
 [[item]]
   organization = "Linkedin"
   organization_url = "https://www.linkedin.com/learning"
@@ -153,7 +155,7 @@ date_format = "Jan 2006"
   course_url = "https://www.linkedin.com/learning/technical-writing-reports/welcome-to-writing-technical-reports?u=2059300"
   date_start = "2020-11-25"
   date_end = ""
-  description = "Learning Outcomes:  
+  description = """ Learning Outcomes:  
   * Identify the purpose and main point of a report.
   * Determine which questions should be asked before writing a technical report.
   * Recall the six ethical principles identified by the Society of Technical Writers.
@@ -163,7 +165,7 @@ date_format = "Jan 2006"
   * Recognize the best approach for writing a first draft.
   * Name three areas of a report that should be assessed during the revision process.
   * Review the best strategies for keeping your writing concise.
-"
+"""
 
 [[item]]
   organization = "Linkedin"
@@ -173,7 +175,7 @@ date_format = "Jan 2006"
   course_url = "https://www.linkedin.com/learning/integrating-tableau-and-r-for-data-science/what-you-should-know?u=2059300"
   date_start = "2020-11-25"
   date_end = ""
-  description = "Learning Outcomes:  
+  description = """ Learning Outcomes:  
   * Where Tableau shines
   * When R is the best option
   * Installing Tableau, R, and Rserve
@@ -185,17 +187,17 @@ date_format = "Jan 2006"
   * Setting up R on Tableau Server
   * Publishing your work
   * Editing calculations
-"
+"""
 
 [[item]]
   organization = "Linkedin"
   organization_url = "https://www.linkedin.com/learning"
   title = "Tableau 10 for Data Scientist"
   url = ""
-  course_url = "https://www.linkedin.com/learning/tableau-10-for-data-scientists/exercise-files?u=2059300
+  course_url = "https://www.linkedin.com/learning/tableau-10-for-data-scientists/exercise-files?u=2059300"
   date_start = "2020-11-25"
   date_end = ""
-  description = "Learning Outcomes:  
+  description = """ Learning Outcomes:  
   * Green vs. blue pills
   * Using filters, colors, and dates
   * Connecting to data
@@ -208,7 +210,8 @@ date_format = "Jan 2006"
   * Creating new maps
   * Creating calculations based on parameters
   * Designing dashboards
-"
+"""
+
 [[item]]
   organization = "Linkedin"
   organization_url = "https://www.linkedin.com/learning"
@@ -217,7 +220,7 @@ date_format = "Jan 2006"
   course_url = "https://www.linkedin.com/learning/essential-math-for-machine-learning-python-edition/explore-core-mathematical-concepts?u=2059300"
   date_start = "2020-10-02"
   date_end = ""
-  description = "Learning Outcomes:  
+  description = """ Learning Outcomes:  
   * Exponentials, radicals, and logarithms
   * Performing arithmetic operations on polynomials
   * Rates of change
@@ -226,7 +229,7 @@ date_format = "Jan 2006"
   * Solving systems of equations with matrices
   * Visualizing data
   * Confidence intervals
-"
+"""
 
 [[item]]
   organization = "Linkedin"
@@ -236,7 +239,7 @@ date_format = "Jan 2006"
   course_url = "https://www.linkedin.com/learning/creating-reports-and-presentations-with-r-markdown-and-rstudio/report-your-data-with-r-markdown?u=2059300"
   date_start = "2020-08-23"
   date_end = ""
-  description = "Learning Outcomes:  
+  description = """ Learning Outcomes:  
   * What is R Markdown?
   * Writing PDF and HTML reports
   * Writing HTML presentations
@@ -252,7 +255,8 @@ date_format = "Jan 2006"
   * Overriding markdown
   * Using htmlwidgets
   * Publishing R Markdown HTML
-"
+"""
+
 [[item]]
   organization = "Linkedin"
   organization_url = "https://www.linkedin.com/learning"
@@ -261,7 +265,7 @@ date_format = "Jan 2006"
   course_url = "https://www.linkedin.com/learning/python-essential-training-2018/exercise-files?u=2059300"
   date_start = "2020-08-22"
   date_end = ""
-  description = "Learning Outcomes:  
+  description = """ Learning Outcomes:  
   * Python anatomy
   * Types and values
   * Conditionals and operators
@@ -274,7 +278,7 @@ date_format = "Jan 2006"
   * File input/output (I/O)
   * Creating modules
   * Integrating a database with Python db-api
-"
+"""
 [[item]]
   organization = "Linkedin"
   organization_url = "https://www.linkedin.com/learning"
@@ -283,7 +287,7 @@ date_format = "Jan 2006"
   course_url = "https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/what-you-should-know?u=2059300"
   date_start = "2020-08-16"
   date_end = ""
-  description = "Learning Outcomes:  
+  description = """ Learning Outcomes:  
   * Object-oriented basics: objects, classes, and more
   * Encapsulation
   * Inheritance
@@ -295,7 +299,8 @@ date_format = "Jan 2006"
   * Using abstract classes
   * Working with inheritance
   * Developing software with object-oriented design principles
-"
+"""
+
 [[item]]
   organization = "Linkedin"
   organization_url = "https://www.linkedin.com/learning"
@@ -304,7 +309,7 @@ date_format = "Jan 2006"
   course_url = "https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/what-you-should-know?u=2059300"
   date_start = "2020-08-16"
   date_end = ""
-  description = "Learning Outcomes:  
+  description = """ Learning Outcomes:  
   * Object-oriented basics: objects, classes, and more
   * Encapsulation
   * Inheritance
@@ -316,7 +321,7 @@ date_format = "Jan 2006"
   * Using abstract classes
   * Working with inheritance
   * Developing software with object-oriented design principles
-"
+"""
 
 [[item]]
   organization = "Linkedin"
@@ -326,13 +331,13 @@ date_format = "Jan 2006"
   course_url = "https://www.linkedin.com/learning/creating-interactive-presentations-with-shiny-and-r/welcome?u=2059300"
   date_start = "2020-08-15"
   date_end = ""
-  description = "Learning Outcomes:  
+  description = """ Learning Outcomes:  
   * Explain the benefits associated with RStudio.
   * List the options for creating HTML R Markdown presentations.
   * Use RPubs to publish and share presentations through Twitter, Google+, and Facebook.
   * Prepare and share an interactive application with Shiny.
   * Name the three different layout options available with the Shiny app.
-  * Compare the different Shinyapps.io accounts to determine which one fits your needs."
+  * Compare the different Shinyapps.io accounts to determine which one fits your needs. """
   
   [[item]]
   organization = "Linkedin"
@@ -342,14 +347,14 @@ date_format = "Jan 2006"
   course_url = "https://www.linkedin.com/learning/creating-interactive-presentations-with-shiny-and-r/welcome?u=2059300"
   date_start = "2020-08-09"
   date_end = ""
-  description = "Learning Outcomes:  
+  description = """ Learning Outcomes:  
   * Explain the benefits associated with RStudio.
   * List the options for creating HTML R Markdown presentations.
   * Use RPubs to publish and share presentations through Twitter, Google+, and Facebook.
   * Prepare and share an interactive application with Shiny.
   * Name the three different layout options available with the Shiny app.
-  * Compare the different Shinyapps.io accounts to determine which one fits your needs."
-
+  * Compare the different Shinyapps.io accounts to determine which one fits your needs."""
+  
   [[item]]
   organization = "Linkedin"
   organization_url = "https://www.linkedin.com/learning"
@@ -358,7 +363,7 @@ date_format = "Jan 2006"
   course_url = "https://www.linkedin.com/learning/programming-foundations-version-control-with-git/what-you-should-know?u=2059300"
   date_start = "2020-08-06"
   date_end = ""
-  description = "Learning Outcomes:  
+  description = """Learning Outcomes:  
   * The benefits of using version control systems
   * Essential Git concepts and terminology
   * The basic Git workflow
@@ -366,5 +371,6 @@ date_format = "Jan 2006"
   * Configuring Git settings
   * Setting up local and remote repositories
   * Using a GUI to add and commit changes
-  * Working with branches"
-  +++
+  * Working with branches """
+  
++++
