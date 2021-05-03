@@ -1,15 +1,14 @@
 ---
 authors:
 - admin
-avatar_image: user-full.png
-bio: My research interests include Causal Inference,Machine Learning, Experimental Design, Data Visualization, Big Data Analytics
+avatar_image: user-full-2.jpeg
+bio: ""
 btn:
-- label: Download Resume
-  url: https://sourcethemes.com/academic/docs/install/
+
 display_education: True
 education:
   courses:
-  - course: PhD in Applied and Agricultural Economics
+  - course: PhD in Applied and Agricultural Economics - Faculty's Outstanding Ph.D Award
     institution: Texas Tech University, U.S.A
     year: 2017
   - course: MSc in Agricultural and Applied Economics
@@ -21,14 +20,15 @@ education:
   - course: MPhil. Agricultural Economics
     institution: University of Science and Technology, Ghana
     year: 2010
-email: ""
+email: "eric.asare.koj0@gmail.com"
+
 interests:
 - Interpretable Machine Learning
 - Causal Inference
 - Experimental Design
 - Big Data Analytics
-- Data Visualization and Dashboards
-- Forex/Stock Trading
+- Data Analytics & Visualization 
+
 name: Eric Asare, Ph.D.
 organizations:
 - name: ""
@@ -55,6 +55,5 @@ user_groups:
 
 I am intrigued by data for its enormous potential to provide powerful insights to solve pressing problems. For the past 15 years, I have been applying varied statistical/econometric methods and data visualizations on different forms of data to solve problems. I am passionate about investing in continuous education to prepare me to solve the complexities of data now and its evolution tomorrow. I would love to find the right opportunity to express my skills in a win-win situation. 
 
-![reviews](../../img/certifacates.jpg)
 
 

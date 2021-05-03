@@ -1,5 +1,5 @@
 +++
-# Hero widget.
+# Hero widget. 
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Academia"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "user-2.jpg"
+hero_media = "user-2.jpeg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -42,6 +42,7 @@ hero_media = "user-2.jpg"
   label = "Contact me"
 
 +++
-## My name is **Asare Eric** and I'm a **Research Economist** specializing in **Causal inference**
 
-Life is good.
+##   
+**Hi welcome to my page:**  
+My name is Eric Asare, Ph.D. Eric is passionate about working with data and statistics. Also, he loves working with people, and exploring other cultures and nature; At home, he loves to read investment books and play with kids. 

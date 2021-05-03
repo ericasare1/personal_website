@@ -18,24 +18,47 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
   icon = "chart-line"
   icon_pack = "fas"
   name = "Causal Inference"
-  parcent = "90%"
+  parcent = "100%"
+  
+[[feature]]
+  icon = "user-secret"
+  icon_pack = "fas"
+  name = "Experimemntal Design"
+  parcent = "100%" 
+  
+[[feature]]
+  icon = "user-secret"
+  icon_pack = "fas"
+  name = "Machine Learning"
+  parcent = "90%" 
   
 [[feature]]
   icon = "user-secret"
   icon_pack = "fas"
   name = "Data Visualization"
-  parcent = "80%"  
+  parcent = "90%"  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Data Analytics"
-  parcent = "70%"
+  parcent = "100%"
   
 [[feature]]
   icon = "searchengin"
   icon_pack = "fab"
   name = "Big Data"
-  parcent = "95%"
-
+  parcent = "90%"
+  
+[[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "Research"
+  parcent = "100%"
+  
+[[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "Presentation"
+  parcent = "100%"
 +++

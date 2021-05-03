@@ -6,7 +6,6 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
-subtitle = "PREVIOUS ASSOCIATIONS THAT HELPED TO GATHER EXPERIENCE"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -18,6 +17,16 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = "Texas Tech University"
+  organization_url = ""
+  title = "Outstanding Ph.D Award"
+  url = ""
+  course_url = ""
+  date_start = "2017-12-01"
+  date_end = ""
+  description = "Department of Agric. & Applied Economics Faculty Award"
+ 
 [[item]]
   organization = "Linkedin"
   organization_url = "https://www.linkedin.com/learning"
@@ -36,7 +45,7 @@ date_format = "Jan 2006"
   * Reshaping data for calculations
   * Performing calculations
   """ 
-  
+
 [[item]]
   organization = "Linkedin"
   organization_url = "https://www.linkedin.com/learning"
