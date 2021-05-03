@@ -45,4 +45,4 @@ hero_media = "user-2.jpeg"
 
 ##   
 **Hi welcome to my page:**  
-My name is Eric Asare, Ph.D. Eric is passionate about working with data and statistics. Also, he loves working with people, and exploring other cultures and nature; At home, he loves to read investment books and play with kids. 
+My name is Eric Asare, Ph.D. I am passionate about working with data and statistics. Also, I love working with people, and exploring other cultures and nature; At home, I love to read investment books and play with kids. 
