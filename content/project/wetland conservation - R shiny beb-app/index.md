@@ -4,9 +4,9 @@ external_link: null
 image:
   caption: ""
   focal_point: Smart
-summary: There is the need for society to compensate farmers to retain wetlands on their lands. This study provides a web-app that could allow society to estimate the value of wetlands and design an efficient budget to compensate farmers who would want to retain wetlands on their lands. 
+summary: There is the need for society to compensate farmers to retain wetlands on their lands. This study provides a web-app that could allow society to estimate the value of wetlands and design an efficient budget to compensate farmers who would want to retain wetlands on their lands. The web-app was designed with the "R shiny" package in R.
 tags:
-- Wetland Conservation - R Shiny Web-app
+- BeeSafe
 title: R Shiny Web-app for Canadian Prairie Wetland Conservation
 ---
 

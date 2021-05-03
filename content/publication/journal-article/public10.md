@@ -15,7 +15,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Source Themes, 1*(1)'
+publication: '*Maine Agricultural and Fores Experiment Station, 1*(1)'
 publication_short: ""
 publication_types:
 - "2"
